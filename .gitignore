@@ -152,4 +152,4 @@ fabric.properties
 
 # Credetials
 service_account.json
-
+weather_api_key.txt
